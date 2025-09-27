@@ -1,7 +1,7 @@
 # Client-Server Messaging Demo
 
 ## Overview
-This Java Project demonstrates **Secure Client-Server Connection ** with a ** MITM Spy **. The goal is to show how encrypted messages can be exchanged between Client and Server even if a Spy (Third Person) is keeping eye on the messages.
+This Java Project demonstrates ** Secure Client-Server Connection ** with a ** MITM Spy **. The goal is to show how encrypted messages can be exchanged between Client and Server even if a Spy (Third Person) is keeping eye on the messages.
 **This is a Demo Project and for Educational purpose only ** 
 ---
 ## Workflow 
