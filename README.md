@@ -26,9 +26,9 @@ This Java Project demonstrates ** Secure Client-Server Connection ** with a ** M
 ---
 ## Learning Objectives 
 - Understand **AES-Encryption** for client-server messages.
-- Learned about **MITM,Spy* and how could they intercept traffic.
+- Learned about **MITM,Spy** and how could they intercept traffic.
 - Hands-on Experience with **JAVA-SOCKET Programming**.
-- Explore basic ** network security concepts ** under controlled environment.
+- Explore basic network security concepts under controlled environment.
 ---
 ## Compile and Run
 - Make sure JDK is installed and updated to Latest Version.
